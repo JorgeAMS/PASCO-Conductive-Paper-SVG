@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+}
+.esf_hover{
+    fill: #ffffff !important;
+    fill-rule: nonzero;
+}
+.ln_hover{
+    stroke: #ff0000 !important;
+    stroke-width: 50;
+    stroke-miterlimit: 22.9256;
+}
+
+.esf_click{
+    fill: #ff0000 !important;
+    fill-rule: nonzero;
+}
+.ln_click{
+    stroke: #3b3b3b !important;
+    stroke-width: 50;
+    stroke-miterlimit: 22.9256;
+}
